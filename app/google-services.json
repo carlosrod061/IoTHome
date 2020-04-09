@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405689486685",
+    "firebase_url": "https://iothome-dbd0e.firebaseio.com",
+    "project_id": "iothome-dbd0e",
+    "storage_bucket": "iothome-dbd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405689486685:android:07e24196f860dfe06d2cb4",
+        "android_client_info": {
+          "package_name": "edu.utng.mx.iothome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405689486685-ik37l5vgbhaajpdeh90oandicj8ttdep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimE2WpmdYoK60ltOsc-6eXNRmC7Vfs84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405689486685-ik37l5vgbhaajpdeh90oandicj8ttdep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
